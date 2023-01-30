@@ -17,7 +17,7 @@ export default function Details (){
         <Container>
             <div className="movie">
                 <img src={`https://image.tmdb.org/t/p/w500${movie.poster_path}`} alt={movie.title} />
-                <div>
+                <div className="details">
                     <h1>{movie.title}</h1>
                     <span>Sinopse: {movie.overview}</span>
                     <span className="releaseDate">Release date: {movie.release_date} </span>
