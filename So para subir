@@ -1,0 +1,59 @@
+/* <Float>
+                <People>
+                    <li className="actors"> <img src="https://image.tmdb.org/t/p/w500/cgoy7t5Ve075naBPcewZrc08qGw.jpg" alt=""/></li>
+                    <li className="actors"> <img src="https://image.tmdb.org/t/p/w500/cgoy7t5Ve075naBPcewZrc08qGw.jpg" alt=""/></li>
+                    <li className="actors"> <img src="https://image.tmdb.org/t/p/w500/cgoy7t5Ve075naBPcewZrc08qGw.jpg" alt=""/></li>
+                    <li className="actors"> <img src="https://image.tmdb.org/t/p/w500/cgoy7t5Ve075naBPcewZrc08qGw.jpg" alt=""/></li>
+                    <li className="actors"> <img src="https://image.tmdb.org/t/p/w500/cgoy7t5Ve075naBPcewZrc08qGw.jpg" alt=""/></li>
+                    <li className="actors"> <img src="https://image.tmdb.org/t/p/w500/cgoy7t5Ve075naBPcewZrc08qGw.jpg" alt=""/></li>
+                    <li className="actors"> <img src="https://image.tmdb.org/t/p/w500/cgoy7t5Ve075naBPcewZrc08qGw.jpg" alt=""/></li>
+                    <li className="actors"> <img src="https://image.tmdb.org/t/p/w500/cgoy7t5Ve075naBPcewZrc08qGw.jpg" alt=""/></li>
+                    <li className="actors"> <img src="https://image.tmdb.org/t/p/w500/cgoy7t5Ve075naBPcewZrc08qGw.jpg" alt=""/></li>
+                    <li className="actors"> <img src="https://image.tmdb.org/t/p/w500/cgoy7t5Ve075naBPcewZrc08qGw.jpg" alt=""/></li>
+                    <li className="actors"> <img src="https://image.tmdb.org/t/p/w500/cgoy7t5Ve075naBPcewZrc08qGw.jpg" alt=""/></li>
+                    <li className="actors"> <img src="https://image.tmdb.org/t/p/w500/cgoy7t5Ve075naBPcewZrc08qGw.jpg" alt=""/></li>
+                </People>   
+	        </Float>*/
+          
+          
+          
+          
+          
+              /*
+export const Float=styled.div`
+	    object-fit: cover;
+        z-index:1;
+        overflow-x:scroll;
+        end:0px;
+        left:0px;
+
+
+`;
+
+export const People=styled.ul`
+
+    list-style:none;
+    display: inline-flex;
+    grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));
+    column-gap:3rem;
+   
+    
+
+}
+.actors{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+
+
+}
+img{
+    width:180px;
+    border-radius:1rem;
+    margin-bottom:2rem;
+}
+
+
+
+`;
+*/
