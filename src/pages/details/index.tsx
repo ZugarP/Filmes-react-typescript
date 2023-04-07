@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { API_KEY } from "../../config/api_key";
 import { Container } from "./components";
+import React from "react";
 
 export default function Details (){
 
